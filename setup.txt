@@ -1,0 +1,9 @@
+scipy
+tensorflow
+opencv_contrib_python
+numpy
+imutils
+dlib
+face_recognition
+requests
+Keras
